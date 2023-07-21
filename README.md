@@ -47,3 +47,4 @@ python pytrog.py
 #### PLATFORMS
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali/Parrot/Arch Linux`**<br>
 > Virus target platform : **`Windows`**
+<img src='https://github.com/7AXEL/SPYTROG/blob/main/img/paypal.svg' width='20px' height='20px'></img>
