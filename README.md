@@ -1,5 +1,8 @@
 <!-- SPYTROG -->
 <p align='center'>
+  <img src="https://github.com/7AXEL/SPYTROG/blob/main/img/logo.png"></img>
+</p>
+<p align='center'>
     <img src="https://img.shields.io/badge/SPYTROG-bg?style=for-the-badge;"></img>
 </p>
 <p align="center">
@@ -9,9 +12,6 @@
   <img src="https://img.shields.io/badge/Author-A.X.E.L-red?style=flat-square;"></img>
   <img src="https://img.shields.io/badge/Open Source-Yes-magenta?style=flat-square;"></img>
   <img src="https://img.shields.io/badge/Written In-PYTHON-cyan?style=flat-square;"></img>
-</p>
-<p align='center'>
-  <img src="https://github.com/7AXEL/SPYTROG/blob/main/img/logo.png"></img>
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/DISCLAIMER-purple?style=for-the-badge;"></img>
@@ -42,9 +42,8 @@ git clone https://github.com/7AXEL/SPYTROG
 - **`Window & Linux`**
 ```
 cd SPYTROG
-python pytrog.py
+python spytrog.py
 ```
 #### PLATFORMS
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali/Parrot/Arch Linux`**<br>
 > Virus target platform : **`Windows`**
-<img src='https://github.com/7AXEL/SPYTROG/blob/main/img/paypal.svg' width='20px' height='20px'></img>
