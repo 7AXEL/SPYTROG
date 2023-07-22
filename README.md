@@ -1,6 +1,4 @@
 <!-- SPYTROG -->
-<link href="style.css" rel="stylesheet"></link>
-<p class='pa'>hello</p>
 <p align='center'>
   <img src="https://github.com/7AXEL/SPYTROG/blob/main/img/logo.png"></img>
 </p>
@@ -49,5 +47,4 @@ python spytrog.py
 #### PLATFORMS
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali/Parrot/Arch Linux`**<br>
 > Virus target platform : **`Windows`**
-#### HELP & CONTACT
-- google <img src='https://github.com/7AXEL/SPYTROG/blob/main/img/google.svg' width='20px' height='20px' background='#000'></img>
+<hr>
