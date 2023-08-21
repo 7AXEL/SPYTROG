@@ -27,7 +27,7 @@
 - **`Windows`**
 - > **`1`** download and install git for window from the original git website <a href='https://gitforwindows.org/'>download</a>
 - > **`2`** download and install python3 from the original python website <a href='https://python.org'>download</a>
-- > **`3`** start the get shell and run this commands:
+- > **`3`** start the git shell and run this commands:
 ```
 git clone https://github.com/7AXEL/SPYTROG
 ```
